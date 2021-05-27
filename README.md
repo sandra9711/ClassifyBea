@@ -41,8 +41,18 @@ Install required libraries using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## How to use?
+1. Run app.py and open the link in the terminal. This opens the web app.
+![image](https://user-images.githubusercontent.com/62297409/119766711-24d13780-bed3-11eb-9ddf-13b4a9731f77.png)
+
+2. Select and upload the picture of a jackfruit or a mango
+![image](https://user-images.githubusercontent.com/62297409/119766691-18e57580-bed3-11eb-9f68-873000428f7b.png)
+
+3. Click Submit
 ![image](https://user-images.githubusercontent.com/62297409/119220394-f84ea180-bb07-11eb-849a-a3ea8c541848.png)
 
+4. Now you can see the prediction
 ![image](https://user-images.githubusercontent.com/62297409/119220409-14524300-bb08-11eb-9a03-29ae96932543.png)
 
 
