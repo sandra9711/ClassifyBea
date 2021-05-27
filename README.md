@@ -1,7 +1,23 @@
 # ClassifyBea
 
 Here we are creating a binary classifier to classify between Mango and JackFruit.
-The technologies we used for this project are TensorFlow, Flask, Python, HTML, CSS and JavaScript.
+
+## Team Details:
+Team ID: BFH/recvNS5RxgnFh4TZS/2021
+
+ProjectName: ClassifyBea
+
+Team Members: 
+
+## Stacks Used
+- Tensorflow
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+#
 
 ![image](https://user-images.githubusercontent.com/62297409/119220394-f84ea180-bb07-11eb-849a-a3ea8c541848.png)
 
