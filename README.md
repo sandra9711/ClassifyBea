@@ -4,8 +4,7 @@
 ## Introduction :eyes:
 
 This is a binary classifier to classify between Mango and JackFruit.
-The datasets have been created using images from google images. 
-And overall analysis and model building have been done in respective Jupyter Notebooks.
+Overall analysis and model building have been done in respective Jupyter Notebooks.
 
 ## Mockup and Demo :hammer:
 
