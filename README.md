@@ -11,6 +11,9 @@ ProjectName: ClassifyBea
 1. [Blessey Maria Saju](https://github.com/blessey15)
 2. [Sandra Mariam Jacob](https://github.com/sandra9711)
 
+# Project Video
+[Video](https://youtu.be/CJGCQMkgwIA)
+
 ## Stacks Used
 - Tensorflow
 - Python
